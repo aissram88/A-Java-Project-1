@@ -34,6 +34,9 @@ public class PayrollCalculation {
             setIncomeTaxfee();
             setNetIncome();
         }
+        public PayrollCalculation(){
+            
+        }
         
 
         public void setOverTimePay(){
